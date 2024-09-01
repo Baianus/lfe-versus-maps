@@ -1,0 +1,1422 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\tf_coop_extended\materials
+Loading C:\Users\brian\Desktop\lfe versus maps\d1_trainstation_01_d.vmf
+Map revision 2
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+"gameplay/cappoint_beam" - "materials/models/effects/cappoint_beam_neutral.vtf": cached version doesn't exist
+Patching WVT material: maps/d1_trainstation_01_d/nature/red_grass_thin_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6144.0 -1350.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 8401: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6144.0 -1382.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 8380: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 764 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\brian\Desktop\lfe versus maps\d1_trainstation_01_d.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+WARNING: node without a volume
+WARNING: node without a volume
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (995092 bytes)
+Static prop models/props_c17/chair_kleiner03a.mdl outside the map (-3714.61, -321.79, -48.42)
+Static prop models/props_wasteland/exterior_fence002c.mdl outside the map (0.00, -1464.00, 44.07)
+Static prop models/props_trainstation/BenchOutdoor01a.mdl outside the map (-5272.00, -593.00, -21.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4710 texinfos to 2814
+Reduced 527 texdatas to 472 (26852 bytes to 24983)
+Writing C:\Users\brian\Desktop\lfe versus maps\d1_trainstation_01_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\brian\Desktop\lfe versus maps\d1_trainstation_01_d.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 7128617, actual size 7064083
+4 seconds elapsed
+
+
+
+4 threads
+reading c:\users\brian\desktop\lfe versus maps\d1_trainstation_01_d.bsp
+reading c:\users\brian\desktop\lfe versus maps\d1_trainstation_01_d.prt
+1315 portalclusters
+3932 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 625 visible clusters (0.00%)
+Total clusters visible: 256768
+Average clusters visible: 195
+Building PAS...
+Average clusters audible: 315
+visdatasize:138751  compressed from 441840
+writing c:\users\brian\desktop\lfe versus maps\d1_trainstation_01_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\brian\desktop\lfe versus maps\d1_trainstation_01_d.bsp', but we don't own that location. Allowing.
+8 minutes, 48 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[50 texlights parsed from 'lights.rad']
+
+Loading c:\users\brian\desktop\lfe versus maps\d1_trainstation_01_d.bsp
+Loaded alpha texture materials\Models\props_c17\fence_alpha.vtf
+8905 faces
+7 degenerate faces
+3189308 square feet [459260416.00 square inches]
+3 Displacements
+23751 Square Feet [3420159.75 Square Inches]
+8898 patches before subdivision
+91924 patches after subdivision
+535 direct lights
+0...1.
+WARNING: Too many light styles on a face at (-11644.418945, -11409.383789, -1522.000000)
+
+WARNING: Too many light styles on a face at (-11635.909180, -10873.965820, -1522.000000)
+
+WARNING: Too many light styles on a face at (-12187.852539, -10749.857422, -1522.000000)
+
+WARNING: Too many light styles on a face at (-12295.878906, -11417.138672, -1522.000000)
+..
+WARNING: Too many light styles on a face at (-12168.527344, -11244.845703, -1538.163574)
+
+WARNING: Too many light styles on a face at (-11797.365234, -11294.279297, -1523.999878)
+
+WARNING: Too many light styles on a face at (-11798.605469, -10880.495117, -1523.999878)
+
+WARNING: Too many light styles on a face at (-12188.929688, -10920.034180, -1523.999878)
+
+WARNING: Too many light styles on a face at (-12184.279297, -11260.614258, -1523.999878)
+
+WARNING: Too many light styles on a face at (-12182.828125, -11259.134766, -1524.670654)
+
+WARNING: Too many light styles on a face at (-12174.976563, -11243.012695, -1535.976318)
+
+WARNING: Too many light styles on a face at (-12174.535156, -11246.149414, -1536.394531)
+
+WARNING: Too many light styles on a face at (-12171.031250, -11250.044922, -1535.513184)
+
+WARNING: Too many light styles on a face at (-12135.345703, -11283.331055, -1537.387207)
+
+WARNING: Too many light styles on a face at (-12133.231445, -11284.758789, -1536.019043)
+2..
+WARNING: Too many light styles on a face at (-11813.155273, -11278.527344, -1538.164673)
+
+WARNING: Too many light styles on a face at (-11798.843750, -11292.828125, -1524.662109)
+.
+WARNING: Too many light styles on a face at (-11814.974609, -11284.983398, -1535.966309)
+
+WARNING: Too many light styles on a face at (-11813.010742, -11283.376953, -1537.493652)
+
+WARNING: Too many light styles on a face at (-11773.233398, -11243.243164, -1536.009644)
+
+WARNING: Too many light styles on a face at (-11770.955078, -11249.056641, -1533.888184)
+
+WARNING: Too many light styles on a face at (-11810.561523, -11279.136719, -1537.623657)
+
+WARNING: Too many light styles on a face at (-11800.083984, -10881.949219, -1524.668579)
+
+WARNING: Too many light styles on a face at (-11772.035156, -10929.560547, -1533.955566)
+
+WARNING: Too many light styles on a face at (-11773.359375, -10929.343750, -1536.154297)
+
+WARNING: Too many light styles on a face at (-11810.436523, -10890.050781, -1535.062500)
+
+WARNING: Too many light styles on a face at (-11807.098633, -10893.647461, -1534.491699)
+
+WARNING: Too many light styles on a face at (-11812.768555, -10888.803711, -1533.878662)
+
+WARNING: Too many light styles on a face at (-11814.375000, -10896.251953, -1538.162598)
+3
+WARNING: Too many light styles on a face at (-12176.876953, -10927.507813, -1534.191406)
+
+WARNING: Too many light styles on a face at (-12172.236328, -10925.000977, -1534.502197)
+
+WARNING: Too many light styles on a face at (-12137.782227, -10890.232422, -1535.095703)
+
+WARNING: Too many light styles on a face at (-12134.311523, -10890.166992, -1535.007080)
+
+WARNING: Too many light styles on a face at (-12187.471680, -10921.515625, -1524.672485)
+
+WARNING: Too many light styles on a face at (-12173.184570, -10935.794922, -1538.156372)
+
+WARNING: Too many light styles on a face at (-12176.587891, -10932.431641, -1534.960449)
+...4...5...6...7
+WARNING: Too many light styles on a face at (-12046.000000, -10692.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11902.250000, -11012.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11902.250000, -11152.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12273.405273, -10966.607422, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12287.000000, -11156.500000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12287.000000, -11016.500000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12140.666016, -11024.255859, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12055.599609, -11111.384766, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12275.286133, -11211.137695, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11970.000000, -11261.000000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11962.250000, -10820.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11962.250000, -11260.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11902.250000, -10692.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11970.000000, -10820.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11594.880859, -11242.303711, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11595.690430, -10934.362305, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12055.337891, -10914.924805, -885.000000)
+
+WARNING: Too many light styles on a face at (-12158.042969, -11003.522461, -876.068176)
+
+WARNING: Too many light styles on a face at (-11886.212891, -10907.255859, -876.057068)
+
+WARNING: Too many light styles on a face at (-11888.522461, -11262.860352, -882.203613)
+
+WARNING: Too many light styles on a face at (-12150.964844, -11170.126953, -883.143005)
+
+WARNING: Too many light styles on a face at (-11794.542969, -11007.543945, -881.958069)
+
+WARNING: Too many light styles on a face at (-12052.303711, -10909.468750, -882.882874)
+
+WARNING: Too many light styles on a face at (-12152.738281, -11161.338867, -882.675842)
+
+WARNING: Too many light styles on a face at (-11856.957031, -10822.457031, -1532.000000)
+
+WARNING: Too many light styles on a face at (-11575.000000, -11100.000000, -1514.000000)
+
+WARNING: Too many light styles on a face at (-11823.168945, -10723.182617, -1523.000000)
+
+WARNING: Too many light styles on a face at (-11909.750000, -10689.000000, -1514.000000)
+
+WARNING: Too many light styles on a face at (-11576.207031, -10922.207031, -1514.000000)
+
+WARNING: Too many light styles on a face at (-11909.750000, -10689.000000, -1531.000000)
+
+WARNING: Too many light styles on a face at (-11811.865234, -10691.619141, -1532.000000)
+
+WARNING: Too many light styles on a face at (-11574.934570, -10923.479492, -1530.997803)
+
+WARNING: Too many light styles on a face at (-11708.707031, -11205.292969, -1532.000000)
+
+WARNING: Too many light styles on a face at (-11605.403320, -11239.867188, -1523.000000)
+
+WARNING: Too many light styles on a face at (-11575.000000, -11246.500977, -1514.000000)
+
+WARNING: Too many light styles on a face at (-11575.000000, -11246.353516, -1531.000000)
+
+WARNING: Too many light styles on a face at (-11577.869141, -11250.032227, -1532.000000)
+
+WARNING: Too many light styles on a face at (-12045.750000, -10689.000000, -1514.000000)
+
+WARNING: Too many light styles on a face at (-12030.000000, -10726.447266, -1494.105591)
+
+WARNING: Too many light styles on a face at (-12192.987305, -11260.261719, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12268.979492, -10964.736328, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12283.136719, -11214.480469, -1531.000000)
+
+WARNING: Too many light styles on a face at (-12187.039063, -11257.542969, -1532.000000)
+
+WARNING: Too many light styles on a face at (-12239.042969, -10970.457031, -1532.000000)
+
+WARNING: Too many light styles on a face at (-12030.062500, -11009.000000, -1544.000000)
+.
+WARNING: Too many light styles on a face at (-12030.062500, -11159.000000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12037.000000, -11056.000000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12037.000000, -11143.875000, -1572.000000)
+
+WARNING: Too many light styles on a face at (-12037.000000, -11152.000000, -1572.000000)
+
+WARNING: Too many light styles on a face at (-12037.000000, -11152.000000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12037.000000, -11020.000000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-11910.750000, -11157.250000, -1643.000000)
+
+WARNING: Too many light styles on a face at (-11911.000000, -11159.875000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12287.500000, -11138.000000, -1563.000000)
+
+WARNING: Too many light styles on a face at (-12283.500000, -11143.000000, -1561.000000)
+
+WARNING: Too many light styles on a face at (-12283.000000, -11025.000000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12138.359375, -11026.472656, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12134.359375, -11139.990234, -1556.000000)
+
+WARNING: Too many light styles on a face at (-12406.000000, -11016.500000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12347.309570, -10935.392578, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12352.000000, -11000.799805, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12406.000000, -11156.500000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12348.736328, -11242.529297, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12368.114258, -11250.390625, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12394.485352, -11261.148438, -1531.000610)
+
+WARNING: Too many light styles on a face at (-12453.750977, -10861.643555, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12289.642578, -11262.300781, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12414.000000, -11025.000000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12314.000000, -11143.000000, -1561.000000)
+
+WARNING: Too many light styles on a face at (-12310.000000, -11138.000000, -1563.000000)
+
+WARNING: Too many light styles on a face at (-12470.304688, -11024.509766, -1563.000000)
+
+WARNING: Too many light styles on a face at (-12463.000000, -11143.000000, -1550.000000)
+
+WARNING: Too many light styles on a face at (-12085.175781, -11355.999023, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11962.250000, -11456.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11934.250000, -11456.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11970.000000, -11457.000000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11939.500000, -11435.000000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11850.000000, -11545.599609, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12053.314453, -11266.588867, -882.824280)
+.
+WARNING: Too many light styles on a face at (-11772.707031, -11269.292969, -1532.000000)
+
+WARNING: Too many light styles on a face at (-11513.033203, -11340.326172, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12091.041016, -11353.541016, -1532.000000)
+
+WARNING: Too many light styles on a face at (-12198.280273, -11546.025391, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12267.333008, -11479.333984, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12370.094727, -11419.743164, -1523.000000)
+.8...9..
+WARNING: Too many light styles on a face at (-11758.000000, -11076.000000, -853.000000)
+
+WARNING: Too many light styles on a face at (-11982.000000, -10868.000000, -853.000000)
+.100...1...2...3...4...5...6...7...8...9...10transfers 11373204, max 931
+transfer lists:  86.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(115586, 124307, 88465)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27397, 24018, 12537)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(6321, 4454, 1682)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1669, 960, 265)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(449, 208, 42)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(125, 47, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(36, 11, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(10, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0257 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+442 of 465 (95% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 153/4096         7344/196608   ( 3.7%) 
+brushes               2615/32768       31380/393216   ( 8.0%) 
+brushsides           22115/65536      176920/524288   (33.7%) 
+planes               22314/65536      446280/1310720  (34.0%) 
+vertexes             15500/65536      186000/786432   (23.7%) 
+nodes                 5381/65536      172192/2097152  ( 8.2%) 
+texinfos              2814/12288      202608/884736   (22.9%) 
+texdata                472/2048        15104/65536    (23.0%) 
+dispinfos                3/0             528/0        ( 0.0%) 
+disp_verts             243/0            4860/0        ( 0.0%) 
+disp_tris              384/0             768/0        ( 0.0%) 
+disp_lmsamples       17200/0           17200/0        ( 0.0%) 
+faces                 8905/65536      498680/3670016  (13.6%) 
+hdr faces             8905/65536      498680/3670016  (13.6%) 
+origfaces             6608/65536      370048/3670016  (10.1%) 
+leaves                5535/65536      177120/2097152  ( 8.4%) 
+leaffaces            11307/65536       22614/131072   (17.3%) 
+leafbrushes           5862/65536       11724/131072   ( 8.9%) 
+areas                   12/1024           96/8192     ( 1.2%) 
+surfedges            69002/512000     276008/2048000  (13.5%) 
+edges                42467/256000     169868/1024000  (16.6%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        530/16384       46640/1441792  ( 3.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            702/131072       7020/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         12924/131072      25848/262144   ( 9.9%) 
+cubemapsamples          79/1024         1264/16384    ( 7.7%) 
+overlays                22/1024         7744/360448   ( 2.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     4697160/0        ( 0.0%) 
+visdata               [variable]      138751/16777216 ( 0.8%) 
+entdata               [variable]      410114/393216   (104.3%) VERY FULL!
+LDR ambient table     5535/65536       22140/262144   ( 8.4%) 
+HDR ambient table     5535/65536       22140/262144   ( 8.4%) 
+LDR leaf ambient      5535/65536      154980/1835008  ( 8.4%) 
+HDR leaf ambient     15252/65536      427056/1835008  (23.3%) 
+occluders                3/0             120/0        ( 0.0%) 
+occluder polygons        3/0              36/0        ( 0.0%) 
+occluder vert ind       12/0              48/0        ( 0.0%) 
+detail props          [variable]           1/17136    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/33448    ( 0.0%) 
+pakfile               [variable]    11912343/0        ( 0.0%) 
+physics               [variable]      995092/4194304  (23.7%) 
+physics terrain       [variable]         203/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 24368
+Writing c:\users\brian\desktop\lfe versus maps\d1_trainstation_01_d.bsp
+1 minute, 48 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\tf_coop_extended\materials
+Loading C:\Users\brian\Desktop\lfe versus maps\d1_trainstation_01_d.vmf
+Map revision 3
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+"gameplay/cappoint_beam" - "materials/models/effects/cappoint_beam_neutral.vtf": cached version doesn't exist
+Patching WVT material: maps/d1_trainstation_01_d/nature/red_grass_thin_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6144.0 -1350.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 8401: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6144.0 -1382.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 8380: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 764 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\brian\Desktop\lfe versus maps\d1_trainstation_01_d.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+WARNING: node without a volume
+WARNING: node without a volume
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (995092 bytes)
+Static prop models/props_c17/chair_kleiner03a.mdl outside the map (-3714.61, -321.79, -48.42)
+Static prop models/props_wasteland/exterior_fence002c.mdl outside the map (0.00, -1464.00, 44.07)
+Static prop models/props_trainstation/BenchOutdoor01a.mdl outside the map (-5272.00, -593.00, -21.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4710 texinfos to 2814
+Reduced 527 texdatas to 472 (26852 bytes to 24983)
+Writing C:\Users\brian\Desktop\lfe versus maps\d1_trainstation_01_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\brian\Desktop\lfe versus maps\d1_trainstation_01_d.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 7128617, actual size 7064083
+4 seconds elapsed
+
+
+
+4 threads
+reading c:\users\brian\desktop\lfe versus maps\d1_trainstation_01_d.bsp
+reading c:\users\brian\desktop\lfe versus maps\d1_trainstation_01_d.prt
+1315 portalclusters
+3932 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 625 visible clusters (0.00%)
+Total clusters visible: 256768
+Average clusters visible: 195
+Building PAS...
+Average clusters audible: 315
+visdatasize:138751  compressed from 441840
+writing c:\users\brian\desktop\lfe versus maps\d1_trainstation_01_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\brian\desktop\lfe versus maps\d1_trainstation_01_d.bsp', but we don't own that location. Allowing.
+10 minutes, 3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[50 texlights parsed from 'lights.rad']
+
+Loading c:\users\brian\desktop\lfe versus maps\d1_trainstation_01_d.bsp
+Loaded alpha texture materials\Models\props_c17\fence_alpha.vtf
+8905 faces
+7 degenerate faces
+3189308 square feet [459260416.00 square inches]
+3 Displacements
+23751 Square Feet [3420159.75 Square Inches]
+8898 patches before subdivision
+91924 patches after subdivision
+535 direct lights
+0...1.
+WARNING: Too many light styles on a face at (-11644.418945, -11409.383789, -1522.000000)
+
+WARNING: Too many light styles on a face at (-11635.909180, -10873.965820, -1522.000000)
+
+WARNING: Too many light styles on a face at (-12187.852539, -10749.857422, -1522.000000)
+
+WARNING: Too many light styles on a face at (-12295.878906, -11417.138672, -1522.000000)
+..
+WARNING: Too many light styles on a face at (-12168.527344, -11244.845703, -1538.163574)
+
+WARNING: Too many light styles on a face at (-11797.365234, -11294.279297, -1523.999878)
+
+WARNING: Too many light styles on a face at (-11798.605469, -10880.495117, -1523.999878)
+
+WARNING: Too many light styles on a face at (-12182.828125, -11259.134766, -1524.670654)
+
+WARNING: Too many light styles on a face at (-12184.279297, -11260.614258, -1523.999878)
+
+WARNING: Too many light styles on a face at (-12188.929688, -10920.034180, -1523.999878)
+
+WARNING: Too many light styles on a face at (-12174.976563, -11243.012695, -1535.976318)
+
+WARNING: Too many light styles on a face at (-12174.535156, -11246.149414, -1536.394531)
+
+WARNING: Too many light styles on a face at (-12171.031250, -11250.044922, -1535.513184)
+
+WARNING: Too many light styles on a face at (-12135.345703, -11283.331055, -1537.387207)
+
+WARNING: Too many light styles on a face at (-12133.231445, -11284.758789, -1536.019043)
+2..
+WARNING: Too many light styles on a face at (-11813.155273, -11278.527344, -1538.164673)
+
+WARNING: Too many light styles on a face at (-11798.843750, -11292.828125, -1524.662109)
+.
+WARNING: Too many light styles on a face at (-11814.974609, -11284.983398, -1535.966309)
+
+WARNING: Too many light styles on a face at (-11813.010742, -11283.376953, -1537.493652)
+
+WARNING: Too many light styles on a face at (-11773.233398, -11243.243164, -1536.009644)
+
+WARNING: Too many light styles on a face at (-11770.955078, -11249.056641, -1533.888184)
+
+WARNING: Too many light styles on a face at (-11810.561523, -11279.136719, -1537.623657)
+
+WARNING: Too many light styles on a face at (-11800.083984, -10881.949219, -1524.668579)
+
+WARNING: Too many light styles on a face at (-11772.035156, -10929.560547, -1533.955566)
+
+WARNING: Too many light styles on a face at (-11773.359375, -10929.343750, -1536.154297)
+
+WARNING: Too many light styles on a face at (-11810.436523, -10890.050781, -1535.062500)
+
+WARNING: Too many light styles on a face at (-11807.098633, -10893.647461, -1534.491699)
+
+WARNING: Too many light styles on a face at (-11812.768555, -10888.803711, -1533.878662)
+
+WARNING: Too many light styles on a face at (-11814.375000, -10896.251953, -1538.162598)
+3
+WARNING: Too many light styles on a face at (-12176.876953, -10927.507813, -1534.191406)
+
+WARNING: Too many light styles on a face at (-12172.236328, -10925.000977, -1534.502197)
+
+WARNING: Too many light styles on a face at (-12137.782227, -10890.232422, -1535.095703)
+
+WARNING: Too many light styles on a face at (-12134.311523, -10890.166992, -1535.007080)
+
+WARNING: Too many light styles on a face at (-12187.471680, -10921.515625, -1524.672485)
+
+WARNING: Too many light styles on a face at (-12173.184570, -10935.794922, -1538.156372)
+
+WARNING: Too many light styles on a face at (-12176.587891, -10932.431641, -1534.960449)
+...4...5...6...7
+WARNING: Too many light styles on a face at (-12046.000000, -10692.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11902.250000, -11012.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11902.250000, -11152.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12273.405273, -10966.607422, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12287.000000, -11156.500000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12287.000000, -11016.500000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12140.666016, -11024.255859, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12055.599609, -11111.384766, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12275.286133, -11211.137695, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11970.000000, -11261.000000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11962.250000, -10820.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11962.250000, -11260.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11902.250000, -10692.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11970.000000, -10820.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11594.880859, -11242.303711, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11595.690430, -10934.362305, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12055.337891, -10914.924805, -885.000000)
+
+WARNING: Too many light styles on a face at (-12158.042969, -11003.522461, -876.068176)
+
+WARNING: Too many light styles on a face at (-11886.212891, -10907.255859, -876.057068)
+
+WARNING: Too many light styles on a face at (-11888.522461, -11262.860352, -882.203613)
+
+WARNING: Too many light styles on a face at (-12150.964844, -11170.126953, -883.143005)
+
+WARNING: Too many light styles on a face at (-11794.542969, -11007.543945, -881.958069)
+
+WARNING: Too many light styles on a face at (-12052.303711, -10909.468750, -882.882874)
+
+WARNING: Too many light styles on a face at (-12152.738281, -11161.338867, -882.675842)
+
+WARNING: Too many light styles on a face at (-11856.957031, -10822.457031, -1532.000000)
+
+WARNING: Too many light styles on a face at (-11575.000000, -11100.000000, -1514.000000)
+
+WARNING: Too many light styles on a face at (-11823.168945, -10723.182617, -1523.000000)
+
+WARNING: Too many light styles on a face at (-11909.750000, -10689.000000, -1514.000000)
+
+WARNING: Too many light styles on a face at (-11576.207031, -10922.207031, -1514.000000)
+
+WARNING: Too many light styles on a face at (-11909.750000, -10689.000000, -1531.000000)
+
+WARNING: Too many light styles on a face at (-11811.865234, -10691.619141, -1532.000000)
+
+WARNING: Too many light styles on a face at (-11574.934570, -10923.479492, -1530.997803)
+
+WARNING: Too many light styles on a face at (-11708.707031, -11205.292969, -1532.000000)
+
+WARNING: Too many light styles on a face at (-11605.403320, -11239.867188, -1523.000000)
+
+WARNING: Too many light styles on a face at (-11575.000000, -11246.500977, -1514.000000)
+
+WARNING: Too many light styles on a face at (-11575.000000, -11246.353516, -1531.000000)
+
+WARNING: Too many light styles on a face at (-11577.869141, -11250.032227, -1532.000000)
+
+WARNING: Too many light styles on a face at (-12045.750000, -10689.000000, -1514.000000)
+
+WARNING: Too many light styles on a face at (-12030.000000, -10726.447266, -1494.105591)
+
+WARNING: Too many light styles on a face at (-12192.987305, -11260.261719, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12268.979492, -10964.736328, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12283.136719, -11214.480469, -1531.000000)
+
+WARNING: Too many light styles on a face at (-12187.039063, -11257.542969, -1532.000000)
+
+WARNING: Too many light styles on a face at (-12239.042969, -10970.457031, -1532.000000)
+
+WARNING: Too many light styles on a face at (-12030.062500, -11009.000000, -1544.000000)
+.
+WARNING: Too many light styles on a face at (-12030.062500, -11159.000000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12037.000000, -11056.000000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12037.000000, -11143.875000, -1572.000000)
+
+WARNING: Too many light styles on a face at (-12037.000000, -11152.000000, -1572.000000)
+
+WARNING: Too many light styles on a face at (-12037.000000, -11152.000000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12037.000000, -11020.000000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-11910.750000, -11157.250000, -1643.000000)
+
+WARNING: Too many light styles on a face at (-11911.000000, -11159.875000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12287.500000, -11138.000000, -1563.000000)
+
+WARNING: Too many light styles on a face at (-12283.500000, -11143.000000, -1561.000000)
+
+WARNING: Too many light styles on a face at (-12283.000000, -11025.000000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12138.359375, -11026.472656, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12134.359375, -11139.990234, -1556.000000)
+
+WARNING: Too many light styles on a face at (-12406.000000, -11016.500000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12347.309570, -10935.392578, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12352.000000, -11000.799805, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12406.000000, -11156.500000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12348.736328, -11242.529297, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12368.114258, -11250.390625, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12394.485352, -11261.148438, -1531.000610)
+
+WARNING: Too many light styles on a face at (-12453.750977, -10861.643555, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12289.642578, -11262.300781, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12414.000000, -11025.000000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12314.000000, -11143.000000, -1561.000000)
+
+WARNING: Too many light styles on a face at (-12310.000000, -11138.000000, -1563.000000)
+
+WARNING: Too many light styles on a face at (-12470.304688, -11024.509766, -1563.000000)
+
+WARNING: Too many light styles on a face at (-12463.000000, -11143.000000, -1550.000000)
+
+WARNING: Too many light styles on a face at (-12085.175781, -11355.999023, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11962.250000, -11456.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11934.250000, -11456.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11850.000000, -11545.599609, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11939.500000, -11435.000000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11970.000000, -11457.000000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12053.314453, -11266.588867, -882.824280)
+.
+WARNING: Too many light styles on a face at (-11772.707031, -11269.292969, -1532.000000)
+
+WARNING: Too many light styles on a face at (-11513.033203, -11340.326172, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12091.041016, -11353.541016, -1532.000000)
+
+WARNING: Too many light styles on a face at (-12198.280273, -11546.025391, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12267.333008, -11479.333984, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12370.094727, -11419.743164, -1523.000000)
+.8...9..
+WARNING: Too many light styles on a face at (-11758.000000, -11076.000000, -853.000000)
+
+WARNING: Too many light styles on a face at (-11982.000000, -10868.000000, -853.000000)
+.100...1...2...3...4...5...6...7...8...9...10transfers 11373204, max 931
+transfer lists:  86.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(115587, 124308, 88466)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27397, 24019, 12537)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(6321, 4454, 1682)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1669, 960, 265)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(449, 208, 42)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(125, 47, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(36, 11, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(10, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0264 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+442 of 465 (95% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 153/4096         7344/196608   ( 3.7%) 
+brushes               2615/32768       31380/393216   ( 8.0%) 
+brushsides           22115/65536      176920/524288   (33.7%) 
+planes               22314/65536      446280/1310720  (34.0%) 
+vertexes             15500/65536      186000/786432   (23.7%) 
+nodes                 5381/65536      172192/2097152  ( 8.2%) 
+texinfos              2814/12288      202608/884736   (22.9%) 
+texdata                472/2048        15104/65536    (23.0%) 
+dispinfos                3/0             528/0        ( 0.0%) 
+disp_verts             243/0            4860/0        ( 0.0%) 
+disp_tris              384/0             768/0        ( 0.0%) 
+disp_lmsamples       17200/0           17200/0        ( 0.0%) 
+faces                 8905/65536      498680/3670016  (13.6%) 
+hdr faces             8905/65536      498680/3670016  (13.6%) 
+origfaces             6608/65536      370048/3670016  (10.1%) 
+leaves                5535/65536      177120/2097152  ( 8.4%) 
+leaffaces            11307/65536       22614/131072   (17.3%) 
+leafbrushes           5862/65536       11724/131072   ( 8.9%) 
+areas                   12/1024           96/8192     ( 1.2%) 
+surfedges            69002/512000     276008/2048000  (13.5%) 
+edges                42467/256000     169868/1024000  (16.6%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        530/16384       46640/1441792  ( 3.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            702/131072       7020/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         12924/131072      25848/262144   ( 9.9%) 
+cubemapsamples          79/1024         1264/16384    ( 7.7%) 
+overlays                22/1024         7744/360448   ( 2.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     4697160/0        ( 0.0%) 
+visdata               [variable]      138751/16777216 ( 0.8%) 
+entdata               [variable]      410501/393216   (104.4%) VERY FULL!
+LDR ambient table     5535/65536       22140/262144   ( 8.4%) 
+HDR ambient table     5535/65536       22140/262144   ( 8.4%) 
+LDR leaf ambient      5535/65536      154980/1835008  ( 8.4%) 
+HDR leaf ambient     15253/65536      427084/1835008  (23.3%) 
+occluders                3/0             120/0        ( 0.0%) 
+occluder polygons        3/0              36/0        ( 0.0%) 
+occluder vert ind       12/0              48/0        ( 0.0%) 
+detail props          [variable]           1/17136    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/33448    ( 0.0%) 
+pakfile               [variable]    11912343/0        ( 0.0%) 
+physics               [variable]      995092/4194304  (23.7%) 
+physics terrain       [variable]         203/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 24368
+Writing c:\users\brian\desktop\lfe versus maps\d1_trainstation_01_d.bsp
+2 minutes, 2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\tf_coop_extended\materials
+Loading C:\Users\brian\Desktop\lfe versus maps\d1_trainstation_01_d.vmf
+Map revision 5
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+"gameplay/cappoint_beam" - "materials/models/effects/cappoint_beam_neutral.vtf": cached version doesn't exist
+Patching WVT material: maps/d1_trainstation_01_d/nature/red_grass_thin_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6144.0 -1350.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 8401: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6144.0 -1382.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 8380: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 764 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\brian\Desktop\lfe versus maps\d1_trainstation_01_d.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+WARNING: node without a volume
+WARNING: node without a volume
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (992755 bytes)
+Static prop models/props_c17/chair_kleiner03a.mdl outside the map (-3714.61, -321.79, -48.42)
+Static prop models/props_wasteland/exterior_fence002c.mdl outside the map (0.00, -1464.00, 44.07)
+Static prop models/props_trainstation/BenchOutdoor01a.mdl outside the map (-5272.00, -593.00, -21.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4711 texinfos to 2814
+Reduced 527 texdatas to 471 (26852 bytes to 24915)
+Writing C:\Users\brian\Desktop\lfe versus maps\d1_trainstation_01_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\brian\Desktop\lfe versus maps\d1_trainstation_01_d.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 7128617, actual size 7064083
+4 seconds elapsed
+
+
+
+4 threads
+reading c:\users\brian\desktop\lfe versus maps\d1_trainstation_01_d.bsp
+reading c:\users\brian\desktop\lfe versus maps\d1_trainstation_01_d.prt
+1316 portalclusters
+3937 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\tf_coop_extended\materials
+Loading C:\Users\brian\Desktop\lfe versus maps\d1_trainstation_01_d.vmf
+Map revision 6
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+"gameplay/cappoint_beam" - "materials/models/effects/cappoint_beam_neutral.vtf": cached version doesn't exist
+Patching WVT material: maps/d1_trainstation_01_d/nature/red_grass_thin_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6144.0 -1350.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 8401: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6144.0 -1382.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 8380: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Occluder "locker_area_occluder" straddles multiple areas. This is invalid!
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 764 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\brian\Desktop\lfe versus maps\d1_trainstation_01_d.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+WARNING: node without a volume
+WARNING: node without a volume
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (992755 bytes)
+Static prop models/props_c17/chair_kleiner03a.mdl outside the map (-3714.61, -321.79, -48.42)
+Static prop models/props_wasteland/exterior_fence002c.mdl outside the map (0.00, -1464.00, 44.07)
+Static prop models/props_trainstation/BenchOutdoor01a.mdl outside the map (-5272.00, -593.00, -21.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4711 texinfos to 2814
+Reduced 527 texdatas to 471 (26852 bytes to 24915)
+Writing C:\Users\brian\Desktop\lfe versus maps\d1_trainstation_01_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\brian\Desktop\lfe versus maps\d1_trainstation_01_d.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 7128617, actual size 7064083
+4 seconds elapsed
+
+
+
+4 threads
+reading c:\users\brian\desktop\lfe versus maps\d1_trainstation_01_d.bsp
+reading c:\users\brian\desktop\lfe versus maps\d1_trainstation_01_d.prt
+1316 portalclusters
+3937 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 640 visible clusters (0.00%)
+Total clusters visible: 256868
+Average clusters visible: 195
+Building PAS...
+Average clusters audible: 315
+visdatasize:138578  compressed from 442176
+writing c:\users\brian\desktop\lfe versus maps\d1_trainstation_01_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\brian\desktop\lfe versus maps\d1_trainstation_01_d.bsp', but we don't own that location. Allowing.
+8 minutes, 19 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[50 texlights parsed from 'lights.rad']
+
+Loading c:\users\brian\desktop\lfe versus maps\d1_trainstation_01_d.bsp
+Loaded alpha texture materials\Models\props_c17\fence_alpha.vtf
+8913 faces
+7 degenerate faces
+3189353 square feet [459266944.00 square inches]
+3 Displacements
+23751 Square Feet [3420159.75 Square Inches]
+8906 patches before subdivision
+92166 patches after subdivision
+535 direct lights
+0...1.
+WARNING: Too many light styles on a face at (-11644.418945, -11409.383789, -1522.000000)
+
+WARNING: Too many light styles on a face at (-11635.909180, -10873.965820, -1522.000000)
+
+WARNING: Too many light styles on a face at (-12187.852539, -10749.857422, -1522.000000)
+
+WARNING: Too many light styles on a face at (-12295.878906, -11417.138672, -1522.000000)
+..
+WARNING: Too many light styles on a face at (-12168.527344, -11244.845703, -1538.163574)
+
+WARNING: Too many light styles on a face at (-11797.365234, -11294.279297, -1523.999878)
+
+WARNING: Too many light styles on a face at (-11798.605469, -10880.495117, -1523.999878)
+
+WARNING: Too many light styles on a face at (-12188.929688, -10920.034180, -1523.999878)
+
+WARNING: Too many light styles on a face at (-12184.279297, -11260.614258, -1523.999878)
+
+WARNING: Too many light styles on a face at (-12182.828125, -11259.134766, -1524.670654)
+
+WARNING: Too many light styles on a face at (-12174.976563, -11243.012695, -1535.976318)
+
+WARNING: Too many light styles on a face at (-12174.535156, -11246.149414, -1536.394531)
+
+WARNING: Too many light styles on a face at (-12171.031250, -11250.044922, -1535.513184)
+
+WARNING: Too many light styles on a face at (-12135.345703, -11283.331055, -1537.387207)
+
+WARNING: Too many light styles on a face at (-12133.231445, -11284.758789, -1536.019043)
+2..
+WARNING: Too many light styles on a face at (-11813.155273, -11278.527344, -1538.164673)
+
+WARNING: Too many light styles on a face at (-11798.843750, -11292.828125, -1524.662109)
+
+WARNING: Too many light styles on a face at (-11814.974609, -11284.983398, -1535.966309)
+
+WARNING: Too many light styles on a face at (-11813.010742, -11283.376953, -1537.493652)
+.
+WARNING: Too many light styles on a face at (-11773.233398, -11243.243164, -1536.009644)
+
+WARNING: Too many light styles on a face at (-11770.955078, -11249.056641, -1533.888184)
+
+WARNING: Too many light styles on a face at (-11810.561523, -11279.136719, -1537.623657)
+
+WARNING: Too many light styles on a face at (-11800.083984, -10881.949219, -1524.668579)
+
+WARNING: Too many light styles on a face at (-11772.035156, -10929.560547, -1533.955566)
+
+WARNING: Too many light styles on a face at (-11773.359375, -10929.343750, -1536.154297)
+
+WARNING: Too many light styles on a face at (-11810.436523, -10890.050781, -1535.062500)
+
+WARNING: Too many light styles on a face at (-11807.098633, -10893.647461, -1534.491699)
+
+WARNING: Too many light styles on a face at (-11812.768555, -10888.803711, -1533.878662)
+
+WARNING: Too many light styles on a face at (-11814.375000, -10896.251953, -1538.162598)
+3
+WARNING: Too many light styles on a face at (-12176.876953, -10927.507813, -1534.191406)
+
+WARNING: Too many light styles on a face at (-12172.236328, -10925.000977, -1534.502197)
+
+WARNING: Too many light styles on a face at (-12137.782227, -10890.232422, -1535.095703)
+
+WARNING: Too many light styles on a face at (-12134.311523, -10890.166992, -1535.007080)
+
+WARNING: Too many light styles on a face at (-12187.471680, -10921.515625, -1524.672485)
+
+WARNING: Too many light styles on a face at (-12173.184570, -10935.794922, -1538.156372)
+
+WARNING: Too many light styles on a face at (-12176.587891, -10932.431641, -1534.960449)
+...4...5...6...7
+WARNING: Too many light styles on a face at (-12046.000000, -10692.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11902.250000, -11012.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11902.250000, -11152.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12273.405273, -10966.607422, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12287.000000, -11156.500000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12287.000000, -11016.500000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12275.286133, -11211.137695, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12055.599609, -11111.384766, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12140.666016, -11024.255859, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11970.000000, -11261.000000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11962.250000, -10820.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11962.250000, -11260.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11902.250000, -10692.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11970.000000, -10820.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11594.880859, -11242.303711, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11595.690430, -10934.362305, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12055.337891, -10914.924805, -885.000000)
+
+WARNING: Too many light styles on a face at (-12158.042969, -11003.522461, -876.068176)
+
+WARNING: Too many light styles on a face at (-11886.212891, -10907.255859, -876.057068)
+
+WARNING: Too many light styles on a face at (-11888.522461, -11262.860352, -882.203613)
+
+WARNING: Too many light styles on a face at (-12150.964844, -11170.126953, -883.143005)
+
+WARNING: Too many light styles on a face at (-11794.542969, -11007.543945, -881.958069)
+
+WARNING: Too many light styles on a face at (-12052.303711, -10909.468750, -882.882874)
+
+WARNING: Too many light styles on a face at (-12152.738281, -11161.338867, -882.675842)
+
+WARNING: Too many light styles on a face at (-11856.957031, -10822.457031, -1532.000000)
+
+WARNING: Too many light styles on a face at (-11575.000000, -11100.000000, -1514.000000)
+
+WARNING: Too many light styles on a face at (-11823.168945, -10723.182617, -1523.000000)
+
+WARNING: Too many light styles on a face at (-11909.750000, -10689.000000, -1514.000000)
+
+WARNING: Too many light styles on a face at (-11576.207031, -10922.207031, -1514.000000)
+
+WARNING: Too many light styles on a face at (-11909.750000, -10689.000000, -1531.000000)
+
+WARNING: Too many light styles on a face at (-11811.865234, -10691.619141, -1532.000000)
+
+WARNING: Too many light styles on a face at (-11574.934570, -10923.479492, -1530.997803)
+
+WARNING: Too many light styles on a face at (-11708.707031, -11205.292969, -1532.000000)
+
+WARNING: Too many light styles on a face at (-11605.403320, -11239.867188, -1523.000000)
+
+WARNING: Too many light styles on a face at (-11575.000000, -11246.500977, -1514.000000)
+
+WARNING: Too many light styles on a face at (-11575.000000, -11246.353516, -1531.000000)
+
+WARNING: Too many light styles on a face at (-11577.869141, -11250.032227, -1532.000000)
+
+WARNING: Too many light styles on a face at (-12045.750000, -10689.000000, -1514.000000)
+
+WARNING: Too many light styles on a face at (-12030.000000, -10726.447266, -1494.105591)
+
+WARNING: Too many light styles on a face at (-12192.987305, -11260.261719, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12268.979492, -10964.736328, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12283.136719, -11214.480469, -1531.000000)
+
+WARNING: Too many light styles on a face at (-12187.039063, -11257.542969, -1532.000000)
+
+WARNING: Too many light styles on a face at (-12239.042969, -10970.457031, -1532.000000)
+.
+WARNING: Too many light styles on a face at (-12030.062500, -11009.000000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12030.062500, -11159.000000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12037.000000, -11056.000000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12037.000000, -11143.875000, -1572.000000)
+
+WARNING: Too many light styles on a face at (-12037.000000, -11152.000000, -1572.000000)
+
+WARNING: Too many light styles on a face at (-12037.000000, -11152.000000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12037.000000, -11020.000000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-11910.750000, -11157.250000, -1643.000000)
+
+WARNING: Too many light styles on a face at (-11911.000000, -11159.875000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12287.500000, -11138.000000, -1563.000000)
+
+WARNING: Too many light styles on a face at (-12283.500000, -11143.000000, -1561.000000)
+
+WARNING: Too many light styles on a face at (-12283.000000, -11025.000000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12138.359375, -11026.472656, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12134.359375, -11139.990234, -1556.000000)
+
+WARNING: Too many light styles on a face at (-12406.000000, -11016.500000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12347.309570, -10935.392578, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12352.000000, -11000.799805, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12406.000000, -11156.500000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12348.736328, -11242.529297, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12368.114258, -11250.390625, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12394.485352, -11261.148438, -1531.000610)
+
+WARNING: Too many light styles on a face at (-12453.750977, -10861.643555, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12289.642578, -11262.300781, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12414.000000, -11025.000000, -1544.000000)
+
+WARNING: Too many light styles on a face at (-12314.000000, -11143.000000, -1561.000000)
+
+WARNING: Too many light styles on a face at (-12310.000000, -11138.000000, -1563.000000)
+
+WARNING: Too many light styles on a face at (-12470.304688, -11024.509766, -1563.000000)
+
+WARNING: Too many light styles on a face at (-12463.000000, -11143.000000, -1550.000000)
+
+WARNING: Too many light styles on a face at (-12085.175781, -11355.999023, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11962.250000, -11456.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11934.250000, -11456.250000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11970.000000, -11457.000000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11939.500000, -11435.000000, -1539.000000)
+
+WARNING: Too many light styles on a face at (-11850.000000, -11545.599609, -1539.000000)
+
+WARNING: Too many light styles on a face at (-12053.314453, -11266.588867, -882.824280)
+.
+WARNING: Too many light styles on a face at (-11772.707031, -11269.292969, -1532.000000)
+
+WARNING: Too many light styles on a face at (-11513.033203, -11340.326172, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12198.280273, -11546.025391, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12091.041016, -11353.541016, -1532.000000)
+
+WARNING: Too many light styles on a face at (-12267.333008, -11479.333984, -1523.000000)
+
+WARNING: Too many light styles on a face at (-12370.094727, -11419.743164, -1523.000000)
+.8...9..
+WARNING: Too many light styles on a face at (-11758.000000, -11076.000000, -853.000000)
+
+WARNING: Too many light styles on a face at (-11982.000000, -10868.000000, -853.000000)
+.100...1...2...3...4...5...6...7...8...9...10transfers 11413609, max 931
+transfer lists:  87.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(116166, 124818, 88716)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27554, 24160, 12595)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(6363, 4487, 1693)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1681, 968, 267)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(452, 210, 42)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(126, 48, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(36, 11, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(10, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0251 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+442 of 465 (95% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 152/4096         7296/196608   ( 3.7%) 
+brushes               2610/32768       31320/393216   ( 8.0%) 
+brushsides           22085/65536      176680/524288   (33.7%) 
+planes               22314/65536      446280/1310720  (34.0%) 
+vertexes             15498/65536      185976/786432   (23.6%) 
+nodes                 5369/65536      171808/2097152  ( 8.2%) 
+texinfos              2814/12288      202608/884736   (22.9%) 
+texdata                471/2048        15072/65536    (23.0%) 
+dispinfos                3/0             528/0        ( 0.0%) 
+disp_verts             243/0            4860/0        ( 0.0%) 
+disp_tris              384/0             768/0        ( 0.0%) 
+disp_lmsamples       17200/0           17200/0        ( 0.0%) 
+faces                 8913/65536      499128/3670016  (13.6%) 
+hdr faces             8913/65536      499128/3670016  (13.6%) 
+origfaces             6609/65536      370104/3670016  (10.1%) 
+leaves                5522/65536      176704/2097152  ( 8.4%) 
+leaffaces            11313/65536       22626/131072   (17.3%) 
+leafbrushes           5855/65536       11710/131072   ( 8.9%) 
+areas                   12/1024           96/8192     ( 1.2%) 
+surfedges            69046/512000     276184/2048000  (13.5%) 
+edges                42489/256000     169956/1024000  (16.6%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        530/16384       46640/1441792  ( 3.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            704/131072       7040/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         12939/131072      25878/262144   ( 9.9%) 
+cubemapsamples          79/1024         1264/16384    ( 7.7%) 
+overlays                22/1024         7744/360448   ( 2.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     4700780/0        ( 0.0%) 
+visdata               [variable]      138578/16777216 ( 0.8%) 
+entdata               [variable]      410958/393216   (104.5%) VERY FULL!
+LDR ambient table     5522/65536       22088/262144   ( 8.4%) 
+HDR ambient table     5522/65536       22088/262144   ( 8.4%) 
+LDR leaf ambient      5522/65536      154616/1835008  ( 8.4%) 
+HDR leaf ambient     15236/65536      426608/1835008  (23.2%) 
+occluders                3/0             120/0        ( 0.0%) 
+occluder polygons        3/0              36/0        ( 0.0%) 
+occluder vert ind       12/0              48/0        ( 0.0%) 
+detail props          [variable]           1/17136    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/33130    ( 0.0%) 
+pakfile               [variable]    11894519/0        ( 0.0%) 
+physics               [variable]      992755/4194304  (23.7%) 
+physics terrain       [variable]         203/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 24392
+Writing c:\users\brian\desktop\lfe versus maps\d1_trainstation_01_d.bsp
+1 minute, 46 seconds elapsed
